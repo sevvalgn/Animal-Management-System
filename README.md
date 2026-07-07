@@ -83,4 +83,4 @@ Menu-Driven Application Design
 3. Move animal
 4. Move all animals
 5. Remove animal
-6. Exist program
+6. Exit program
